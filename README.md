@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dushan Aluth Patabendige
-- 👀 I’m interested in Software Design/Architecure/Communication protocols/Optimization & Scaling
-- 🌱 I’m currently learning Django+GraphQL
-- 💞️ I’m looking to collaborate on Open source networking/internet applications.
+- 👋 Hi, I’m *Dushan Aluth Patabendige* from Colombo, Sri Lanka.
+- 👀 I’m interested in *Software* Design/Architecure/Communication protocols/Optimizing & Scaling.
+- 🌱 I’m currently learning *Django+GraphQL*.
+- 💞️ I’m looking to collaborate on Open source *Networking/Internet* applications.
 - 📫 How to reach me: visit https://dushan.lk
 
 <!---
